@@ -249,6 +249,9 @@ nav {
   .search-bar {
     display: none;
   }
+  .account-icon {
+    margin-top: 10px;
+  }
   #text-crousal {
     left: 15px;
   }
